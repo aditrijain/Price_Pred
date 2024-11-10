@@ -2,6 +2,7 @@
 ## Overview
 This project was created for the 24 hour hackathon conducted by Techsoc, IITM, in collaboration with GeeksforGeeks.</br>
 The problem statement was to make use of multimodal AI models to fill in missing values of closing prices in the dataset given to us, which contained the prices and tweet data for 40 coins with periods of missing data in between.</br>
+Created by (Kevin)[https://github.com/bytefoot], (Aditri)[https://github.com/aditrijain], and (Manoj)[https://github.com/manoj-nh].
 ## Dataset:
 The following datasets were given to us:</br>
 [`public_dataset`](https://drive.google.com/drive/folders/1D8P_FbvU3pNVz6IGnWXXEAdn7FQGFnbk?usp=drive_link)</br>
